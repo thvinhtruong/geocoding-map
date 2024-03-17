@@ -1,4 +1,4 @@
-package main
+package geocodingmap
 
 import (
 	"encoding/json"
